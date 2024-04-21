@@ -22,7 +22,7 @@ bash shells/example.sh
 Check the save file in 
 
 ```bash 
-outputs/train_identifier/cut_labels_100/llama2_7b/tiny/bigram/seed_0/layer_26/generated'
+outputs/train_identifier/cut_labels_100/llama2_7b/tiny/bigram/seed_0/layer_26/generated
 ```
 
 ### Option 2 
