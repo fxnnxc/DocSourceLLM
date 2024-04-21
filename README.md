@@ -7,6 +7,10 @@
 </p>
 
 
+```bash 
+pip install -e . 
+```
+
 ## Example Code 
 Please run the following code first which trains identifier for **Llama2 model**. 
 
