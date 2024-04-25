@@ -3,8 +3,8 @@
 🌻Official Repo for ICPRAI 2024 - Identifying the Source of Generation for Large Language Models
 
 <p align="center" >
-<img src="/assets/paper_visualize.png">
-</p>
+<img src="/assets/paper_visualize.png" width="80%">
+</p> 
 
 
 ```bash 
